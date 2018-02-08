@@ -1,4 +1,4 @@
-# tevue
+# vue-component
 
 > A Vue.js project
 
